@@ -1,0 +1,37 @@
+
+/* 
+    Created on : Feb 15, 2015, 11:29:00 AM
+    Author     : Dinesh
+*/
+
+body {
+    font: 20px tahoma;
+    color: #3F3F3F;
+    width: 90%;
+    background-color: #fffded;
+}
+
+#my_image {
+    float: left;
+    width: 50%;
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-right: 40px;
+
+}
+img{
+    width: 450px;
+    height: 200px;
+}
+section {
+    text-align: center;
+    background-color: Transparent;
+    border: none;
+    overflow: hidden;
+    font: 20px tahoma;
+    color: #3F3F3F;
+
+}
+
+
+
